@@ -1,8 +1,14 @@
 {
 	"name": "fcc-learn-npm-package-json",
 	"author": "Lovely Singh",
+	"description": "Project to learn npm",
+	"keyboards": ["npm", "learn", "project"],
+	"licnse": "MIT",
+	"version": "2.10.2",
 	"dependencies": {
-		"express": "^4.14.0"
+		"package-name": "version",
+		"express": "4.14.0"
+		
 	},
 	"main": "server.js",
 	"scripts": {
